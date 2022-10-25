@@ -1,0 +1,16 @@
+@media screen and (max-width:855px) {
+
+
+    .navdesktop{
+        display: none;
+    }
+    .navdesktop-mobile{
+        display: flex;
+    }
+    .headersection-container{
+        min-width: 100%;
+    }
+    .headercontent{
+        align-items: center;
+    }
+}
