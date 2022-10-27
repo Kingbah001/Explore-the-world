@@ -257,6 +257,10 @@ body {
     padding: 10px;
     font-size: large;
 }
+.footersection-two a{
+    color: var(--white-color);
+    text-decoration: none;
+}
 
 
 /* footer section ends here */
